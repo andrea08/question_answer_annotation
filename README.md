@@ -49,7 +49,7 @@ This repository contains the annotation guidelines and the annotated corpus desc
 
 If you use our work please cite the paper:
 
-"Toward Dialogue Modeling: A Semantic Annotation Scheme for Questions and Answers". María Andrea Cruz Blandón, Gosse Minemma, Aria Nourbakhsh, Maria Bortichev, Maxime Amblard. To be presented at LAW XIII: The 13th Linguistic Annotation Workshop.
+"Toward Dialogue Modeling: A Semantic Annotation Scheme for Questions and Answers". María Andrea Cruz Blandón, Gosse Minnema, Aria Nourbakhsh, Maria Bortichev, Maxime Amblard. To be presented at LAW XIII: The 13th Linguistic Annotation Workshop.
 
 
 
