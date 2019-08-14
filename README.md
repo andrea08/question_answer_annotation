@@ -49,7 +49,28 @@ This repository contains the annotation guidelines and the annotated corpus desc
 
 If you use our work please cite the paper:
 
-"Toward Dialogue Modeling: A Semantic Annotation Scheme for Questions and Answers". María Andrea Cruz Blandón, Gosse Minnema, Aria Nourbakhsh, Maria Bortichev, Maxime Amblard. To be presented at LAW XIII: The 13th Linguistic Annotation Workshop.
+"Toward Dialogue Modeling: A Semantic Annotation Scheme for Questions and Answers". María Andrea Cruz Blandón, Gosse Minnema, Aria Nourbakhsh, Maria Bortichev, Maxime Amblard. In Proceedings of the 13th Linguistic Annotation Workshop, pages 230–235,  Florence, Italy. Association for Computational Linguistics.
+
+Bibtex:
+
+```
+@inproceedings{cruz-blandon-etal-2019-toward,
+    title = "Toward Dialogue Modeling: A Semantic Annotation Scheme for Questions and Answers",
+    author = "Cruz Bland{\'o}n, Mar{\'\i}a Andrea  and
+      Minnema, Gosse  and
+      Nourbakhsh, Aria  and
+      Boritchev, Maria  and
+      Amblard, Maxime",
+    booktitle = "Proceedings of the 13th Linguistic Annotation Workshop",
+    month = aug,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W19-4027",
+    pages = "230--235",
+    abstract = "The present study proposes an annotation scheme for classifying the content and discourse contribution of question-answer pairs. We propose detailed guidelines for using the scheme and apply them to dialogues in English, Spanish, and Dutch. Finally, we report on initial machine learning experiments for automatic annotation.",
+}
+```
 
 
 
